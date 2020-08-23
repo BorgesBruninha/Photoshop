@@ -1,2 +1,2 @@
 # Photoshop
-Desenvolvimento de photoshop em C++
+Desenvolvimento de photoshop
