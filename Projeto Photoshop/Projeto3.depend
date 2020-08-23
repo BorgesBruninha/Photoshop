@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1512233776 source:c:\users\bruna\google drive\uf\3º semestre\lip\trabalho final\projeto3\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<locale.h>
+	<stdlib.h>
+	<cstring>
+
